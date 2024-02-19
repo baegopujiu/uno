@@ -1,5 +1,5 @@
 ---
-title: uno
+title: Home
 ---
 
 ![[🏭산업]]
